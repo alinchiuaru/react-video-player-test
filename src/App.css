@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.video-wrapper {
+  width: 500px;
+  height: 400px;
+}
+
+.playlist-item-title {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
